@@ -17,18 +17,18 @@ Examine changes in crime dynamics and prevalence over the years.
 # Tools and Techniques:
 The analysis is conducted using Python programming language and popular data analysis libraries such as Pandas, Matplotlib, and Seaborn. These libraries provide powerful tools for data manipulation, visualization, and statistical analysis, enabling us to extract meaningful insights from the dataset.
 
-## Project Structure:
+# Project Structure:
 
-# Data Preparation: 
+## Data Preparation: 
 Cleaning and preprocessing of the raw data to ensure consistency and suitability for analysis.
 
-# Exploratory Data Analysis (EDA): 
+## Exploratory Data Analysis (EDA): 
 In-depth exploration and visualization of the dataset to identify trends, patterns, and relationships.
 
-# Statistical Analysis: 
+## Statistical Analysis: 
 Applying statistical methods to quantify relationships and derive meaningful conclusions from the data.
 
-# Visualization: 
+## Visualization: 
 Creating informative visualizations to communicate findings and insights effectively.
 
 # Conclusion:
