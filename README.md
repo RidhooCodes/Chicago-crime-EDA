@@ -1,4 +1,4 @@
-# Chicago-crime-EDA
+gi# Chicago-crime-EDA
 
 # Introduction:
 This Project is an exploration of crime data collected in the city of Chicago. It aims to analyze and understand patterns, trends, and characteristics of various crimes reported in Chicago over the years. By leveraging data analysis and visualization techniques, we seek to uncover insights that can aid in understanding crime dynamics.
